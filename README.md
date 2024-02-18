@@ -5,7 +5,7 @@
 
 **Bize ulaşabileceğiniz sosyal medya bilgilerimiz:**
 
- [![Discord](https://lanyard.cnrad.dev/api/1208873575046717522)](https://discord.com/users/1208873575046717522)
+ [![Discord](https://lanyard.cnrad.dev/api/1179280051443867728)](https://discord.com/users/1179280051443867728)
  [![Discord](https://lanyard.cnrad.dev/api/1208523046458232932)](https://discord.com/users/1208523046458232932)
 
 
